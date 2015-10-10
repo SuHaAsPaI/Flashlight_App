@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flash Light</string>
+    <string name="action_settings">About App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="flickon">Flicker ON</string>
+    <string name="flickoff">Flicker OFF</string>
+    <string name="flickerrate">Flicker Rate(ms)=50</string>
+    <string name="about_app">About App</string>
+    <string name="help">Help</string>
+    <string name="dev">By SP Developer</string>
+    <string name="bug">For any Bug report:</string>
+    <string name="email">spdeveloper28@gmail.com</string>
+   
+</resources>
